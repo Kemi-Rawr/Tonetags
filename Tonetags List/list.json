@@ -1,0 +1,188 @@
+{
+  "tonetags": [
+    {
+        "tag": "/j",
+        "meaning": "joking"
+    },
+    {
+        "tag": "/hj",
+        "meaning": "half joking"
+    },
+    {
+        "tag": "/s",
+        "meaning": "sarcastic"
+    },
+    {
+        "tag": "/sarc",
+        "meaning": "sarcastic"
+    },
+    {
+        "tag": "/srs",
+        "meaning": "serious"
+    },
+    {
+        "tag": "/nsrs",
+        "meaning": "not serious"
+    },
+    {
+        "tag": "/lh",
+        "meaning": "light hearted"
+    },
+    {
+        "tag": "/ij",
+        "meaning": "inside joke"
+    },
+    {
+        "tag": "/ref",
+        "meaning": "reference"
+    },
+    {
+        "tag": "/t",
+        "meaning": "teasing"
+    },
+    {
+        "tag": "/nm",
+        "meaning": "not mad"
+    },
+    {
+        "tag": "/lu",
+        "meaning": "a little upset"
+    },
+    {
+        "tag": "/nbh",
+        "meaning": "nobody here"
+    },
+    {
+        "tag": "/nay",
+        "meaning": "not at you"
+    },
+    {
+        "tag": "/nsb",
+        "meaning": "not subtweeting"
+    },
+    {
+        "tag": "/gen",
+        "meaning": "genuine"
+    },
+    {
+        "tag": "/genq",
+        "meaning": "genuine question"
+    },
+    {
+        "tag": "/th",
+        "meaning": "threat"
+    },
+    {
+        "tag": "/cb",
+        "meaning": "clickbait"
+    },
+    {
+        "tag": "/f",
+        "meaning": "family"
+    },
+    {
+        "tag": "/q",
+        "meaning": "quote"
+    },
+    {
+        "tag": "/lyr",
+        "meaning": "lyrics"
+    },
+    {
+        "tag": "/c",
+        "meaning": "copypasta"
+    },
+    {
+        "tag": "/m",
+        "meaning": "metaphor / metaphorically"
+    },
+    {
+        "tag": "/li",
+        "meaning": "literal / literally"
+    },
+    {
+        "tag": "/lu",
+        "meaning": "little upset"
+    },
+    {
+        "tag": "/rh",
+        "meaning": "rhetorical question"
+    },
+    {
+        "tag": "/rt",
+        "meaning": "rhetorical question"
+    },
+    {
+        "tag": "/hyp",
+        "meaning": "hyperbole"
+    },
+    {
+        "tag": "/p",
+        "meaning": "platonic"
+    },
+    {
+        "tag": "/r",
+        "meaning": "romantic"
+    },
+    {
+        "tag": "/pos",
+        "meaning": "positive connotation"
+    },
+    {
+        "tag": "/neg",
+        "meaning": "negative connotation"
+    },
+    {
+        "tag": "/neu",
+        "meaning": "neutral"
+    },
+    {
+        "tag": "/nav",
+        "meaning": "not a vent"
+    },
+    {
+        "tag": "/nbr",
+        "meaning": "not being rude"
+    },
+    {
+        "tag": "/ncm",
+        "meaning": "not competing / comparing"
+    },
+    {
+        "tag": "/npa",
+        "meaning": "not passive aggressive"
+    },
+    {
+        "tag": "/mj",
+        "meaning": "mostly joking"
+    },
+    {
+        "tag": "/afc",
+        "meaning": "affectionate"
+    },
+    {
+        "tag": "/sbip",
+        "meaning": "somebody in particular"
+    },
+    {
+        "tag": "/cj",
+        "meaning": "coping joke"
+    },
+    {
+        "tag": "/np",
+        "meaning": "no pressure"
+    },
+    {
+        "tag": "/nf",
+        "meaning": "not forced"
+    },
+    {
+        "tag": "/jt",
+        "meaning": "joking tone"
+    },
+    {
+        "tag": "/ot",
+        "meaning": "off topic"
+    }
+  ]
+}
