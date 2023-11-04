@@ -61,6 +61,10 @@
         "meaning": "not subtweeting"
     },
     {
+        "tag": "/g",
+        "meaning": "genuine"
+    },
+    {
         "tag": "/gen",
         "meaning": "genuine"
     },
@@ -85,6 +89,10 @@
         "meaning": "quote"
     },
     {
+        "tag": "/l",
+        "meaning": "lyrics"
+    },
+    {
         "tag": "/lyr",
         "meaning": "lyrics"
     },
@@ -106,11 +114,11 @@
     },
     {
         "tag": "/rh",
-        "meaning": "rhetorical question"
+        "meaning": "rhetorical"
     },
     {
         "tag": "/rt",
-        "meaning": "rhetorical question"
+        "meaning": "rhetorical"
     },
     {
         "tag": "/hyp",
@@ -179,6 +187,18 @@
     {
         "tag": "/jt",
         "meaning": "joking tone"
+    },
+    {
+        "tag": "/vsrs",
+        "meaning": "very serious"
+    },
+    {
+        "tag": "/nsar",
+        "meaning": "not sarcastic"
+    },
+    {
+        "tag": "/nj",
+        "meaning": "not joking"
     },
     {
         "tag": "/ot",
