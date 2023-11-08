@@ -113,6 +113,10 @@
         "meaning": "little upset"
     },
     {
+        "tag": "/nu",
+        "meaning": "not upset"
+    },
+    {
         "tag": "/rh",
         "meaning": "rhetorical"
     },
