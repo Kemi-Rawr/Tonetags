@@ -205,6 +205,10 @@
         "meaning": "not joking"
     },
     {
+        "tag": "/jth",
+        "meaning": "joking threat"
+    },
+    {
         "tag": "/ot",
         "meaning": "off topic"
     }
