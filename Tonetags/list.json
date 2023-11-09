@@ -209,6 +209,10 @@
         "meaning": "joking threat"
     },
     {
+        "tag": "/lhj",
+        "meaning": "light hearted joke"
+    },
+    {
         "tag": "/ot",
         "meaning": "off topic"
     }
