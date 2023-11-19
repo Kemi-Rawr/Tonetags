@@ -1,222 +1,223 @@
 {
-  "tags": ["/j", "/hj", "/s", "/sarc", "/srs", "/nsrs", "/lh", "/ij", "/ref", "/t", "/nm", "/lu", "/nbh", "/nay", "/nsb", "/g", "/gen", "/genq", "/th", "/cb", "/f", "/q", "/l", "/lyr", "/c", "/m", "/li", "/lu", "/nu", "/rh", "/rt", "/hyp", "/p", "/r", "/pos", "/neg", "/neu", "/nav", "/nbr", "/ncm", "/npa", "/mj", "/afc", "/sbip", "/cj", "/np", "/nf", "/jt", "/vsrs", "/nsar", "/nj", "/jth", "/lhj", "/ot"],
-  
+  "tags": [
+    "/j", "/hj", "/s", "/sarc", "/srs", "/nsrs", "/lh", "/ij", "/ref", "/t", "/nm", "/lu", "/nbh", "/nay", "/nsb", "/g", "/gen", "/genq", "/th", "/cb", "/f", "/q", "/l", "/lyr", "/c", "/m", "/li", "/lu", "/nu", "/rh", "/rt", "/hyp", "/p", "/r", "/pos", "/neg", "/neu", "/nav", "/nbr", "/ncm", "/npa", "/mj", "/afc", "/sbip", "/cj", "/np", "/nf", "/jt", "/vsrs", "/nsar", "/nj", "/jth", "/lhj", "/ot"
+  ],
   "tonetags": [
     {
-        "tag": "/j",
-        "meaning": "joking"
+      "tag": "/j",
+      "meanings": ["joking"]
     },
     {
-        "tag": "/hj",
-        "meaning": "half joking"
+      "tag": "/hj",
+      "meanings": ["half joking"]
     },
     {
-        "tag": "/s",
-        "meaning": "sarcastic"
+      "tag": "/s",
+      "meanings": ["sarcastic"]
     },
     {
-        "tag": "/sarc",
-        "meaning": "sarcastic"
+      "tag": "/sarc",
+      "meanings": ["sarcastic"]
     },
     {
-        "tag": "/srs",
-        "meaning": "serious"
+      "tag": "/srs",
+      "meanings": ["serious"]
     },
     {
-        "tag": "/nsrs",
-        "meaning": "not serious"
+      "tag": "/nsrs",
+      "meanings": ["not serious"]
     },
     {
-        "tag": "/lh",
-        "meaning": "light hearted"
+      "tag": "/lh",
+      "meanings": ["light hearted"]
     },
     {
-        "tag": "/ij",
-        "meaning": "inside joke"
+      "tag": "/ij",
+      "meanings": ["inside joke"]
     },
     {
-        "tag": "/ref",
-        "meaning": "reference"
+      "tag": "/ref",
+      "meanings": ["reference"]
     },
     {
-        "tag": "/t",
-        "meaning": "teasing"
+      "tag": "/t",
+      "meanings": ["teasing"]
     },
     {
-        "tag": "/nm",
-        "meaning": "not mad"
+      "tag": "/nm",
+      "meanings": ["not mad"]
     },
     {
-        "tag": "/lu",
-        "meaning": "a little upset"
+      "tag": "/lu",
+      "meanings": ["a little upset"]
     },
     {
-        "tag": "/nbh",
-        "meaning": "nobody here"
+      "tag": "/nbh",
+      "meanings": ["nobody here"]
     },
     {
-        "tag": "/nay",
-        "meaning": "not at you"
+      "tag": "/nay",
+      "meanings": ["not at you"]
     },
     {
-        "tag": "/nsb",
-        "meaning": "not subtweeting"
+      "tag": "/nsb",
+      "meanings": ["not subtweeting"]
     },
     {
-        "tag": "/g",
-        "meaning": "genuine"
+      "tag": "/g",
+      "meanings": ["genuine"]
     },
     {
-        "tag": "/gen",
-        "meaning": "genuine"
+      "tag": "/gen",
+      "meanings": ["genuine"]
     },
     {
-        "tag": "/genq",
-        "meaning": "genuine question"
+      "tag": "/genq",
+      "meanings": ["genuine question"]
     },
     {
-        "tag": "/th",
-        "meaning": "threat"
+      "tag": "/th",
+      "meanings": ["threat"]
     },
     {
-        "tag": "/cb",
-        "meaning": "clickbait"
+      "tag": "/cb",
+      "meanings": ["clickbait"]
     },
     {
-        "tag": "/f",
-        "meaning": "family"
+      "tag": "/f",
+      "meanings": ["family"]
     },
     {
-        "tag": "/q",
-        "meaning": "quote"
+      "tag": "/q",
+      "meanings": ["quote"]
     },
     {
-        "tag": "/l",
-        "meaning": "lyrics"
+      "tag": "/l",
+      "meanings": ["lyrics"]
     },
     {
-        "tag": "/lyr",
-        "meaning": "lyrics"
+      "tag": "/lyr",
+      "meanings": ["lyrics"]
     },
     {
-        "tag": "/c",
-        "meaning": "copypasta"
+      "tag": "/c",
+      "meanings": ["copypasta"]
     },
     {
-        "tag": "/m",
-        "meaning": "metaphor / metaphorically"
+      "tag": "/m",
+      "meanings": ["metaphor", "metaphorically"]
     },
     {
-        "tag": "/li",
-        "meaning": "literal / literally"
+      "tag": "/li",
+      "meanings": ["literal", "literally"]
     },
     {
-        "tag": "/lu",
-        "meaning": "little upset"
+      "tag": "/lu",
+      "meanings": ["little upset"]
     },
     {
-        "tag": "/nu",
-        "meaning": "not upset"
+      "tag": "/nu",
+      "meanings": ["not upset"]
     },
     {
-        "tag": "/rh",
-        "meaning": "rhetorical"
+      "tag": "/rh",
+      "meanings": ["rhetorical"]
     },
     {
-        "tag": "/rt",
-        "meaning": "rhetorical"
+      "tag": "/rt",
+      "meanings": ["rhetorical"]
     },
     {
-        "tag": "/hyp",
-        "meaning": "hyperbole"
+      "tag": "/hyp",
+      "meanings": ["hyperbole"]
     },
     {
-        "tag": "/p",
-        "meaning": "platonic"
+      "tag": "/p",
+      "meanings": ["platonic"]
     },
     {
-        "tag": "/r",
-        "meaning": "romantic"
+      "tag": "/r",
+      "meanings": ["romantic"]
     },
     {
-        "tag": "/pos",
-        "meaning": "positive connotation"
+      "tag": "/pos",
+      "meanings": ["positive connotation"]
     },
     {
-        "tag": "/neg",
-        "meaning": "negative connotation"
+      "tag": "/neg",
+      "meanings": ["negative connotation"]
     },
     {
-        "tag": "/neu",
-        "meaning": "neutral"
+      "tag": "/neu",
+      "meanings": ["neutral"]
     },
     {
-        "tag": "/nav",
-        "meaning": "not a vent"
+      "tag": "/nav",
+      "meanings": ["not a vent"]
     },
     {
-        "tag": "/nbr",
-        "meaning": "not being rude"
+      "tag": "/nbr",
+      "meanings": ["not being rude"]
     },
     {
-        "tag": "/ncm",
-        "meaning": "not competing / comparing"
+      "tag": "/ncm",
+      "meanings": ["not competing", "comparing"]
     },
     {
-        "tag": "/npa",
-        "meaning": "not passive aggressive"
+      "tag": "/npa",
+      "meanings": ["not passive aggressive"]
     },
     {
-        "tag": "/mj",
-        "meaning": "mostly joking"
+      "tag": "/mj",
+      "meanings": ["mostly joking"]
     },
     {
-        "tag": "/afc",
-        "meaning": "affectionate"
+      "tag": "/afc",
+      "meanings": ["affectionate"]
     },
     {
-        "tag": "/sbip",
-        "meaning": "somebody in particular"
+      "tag": "/sbip",
+      "meanings": ["somebody in particular"]
     },
     {
-        "tag": "/cj",
-        "meaning": "coping joke"
+      "tag": "/cj",
+      "meanings": ["coping joke"]
     },
     {
-        "tag": "/np",
-        "meaning": "no pressure"
+      "tag": "/np",
+      "meanings": ["no pressure"]
     },
     {
-        "tag": "/nf",
-        "meaning": "not forced"
+      "tag": "/nf",
+      "meanings": ["not forced"]
     },
     {
-        "tag": "/jt",
-        "meaning": "joking tone"
+      "tag": "/jt",
+      "meanings": ["joking tone"]
     },
     {
-        "tag": "/vsrs",
-        "meaning": "very serious"
+      "tag": "/vsrs",
+      "meanings": ["very serious"]
     },
     {
-        "tag": "/nsar",
-        "meaning": "not sarcastic"
+      "tag": "/nsar",
+      "meanings": ["not sarcastic"]
     },
     {
-        "tag": "/nj",
-        "meaning": "not joking"
+      "tag": "/nj",
+      "meanings": ["not joking"]
     },
     {
-        "tag": "/jth",
-        "meaning": "joking threat"
+      "tag": "/jth",
+      "meanings": ["joking threat"]
     },
     {
-        "tag": "/lhj",
-        "meaning": "light hearted joke"
+      "tag": "/lhj",
+      "meanings": ["light hearted joke"]
     },
     {
-        "tag": "/ot",
-        "meaning": "off topic"
+      "tag": "/ot",
+      "meanings": ["off topic"]
     }
   ]
     }
