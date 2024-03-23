@@ -1,8 +1,8 @@
 {
   "tags": [
-    "/j", "/hj", "/s", "/sarc", "/srs", "/nsrs", "/lh", "/ij", "/ref", "/t", "/nm", "/lu", "/nbh", "/nay", "/nsb", "/g", "/gen", "/genq", "/th", "/cb", "/f", "/q", "/l", "/lyr", "/c", "/m", "/li", "/lu", "/nu", "/rh", "/rt", "/hyp", "/p", "/r", "/pos", "/neg", "/neu", "/nav", "/nbr", "/ncm", "/npa", "/mj", "/afc", "/sbip", "/cj", "/np", "/nf", "/jt", "/vsrs", "/nsar", "/nj", "/jth", "/lhj", "/ot"
+    "/j", "/hj", "/s", "/sarc", "/srs", "/nsrs", "/lh", "/ij", "/ref", "/t", "/nm", "/lu", "/nbh", "/nay", "/nsb", "/g", "/gen", "/genq", "/th", "/cb", "/f", "/q", "/l", "/lyr", "/c", "/m", "/li", "/lu", "/nu", "/rh", "/rt", "/hyp", "/p", "/r", "/pos", "/neg", "/neu", "/nav", "/nbr", "/ncm", "/npa", "/mj", "/afc", "/sbip", "/cj", "/np", "/nf", "/jt", "/vsrs", "/nsar", "/nj", "/jth", "/lhj", "/ot", "/st"
   ],
-  "meanings": ["joking", "half joking", "sarcastic", "sarcastic", "serious", "not serious", "light hearted", "inside joke", "reference", "teasing", "not mad", "a little upset", "nobody here", "not at you", "not subtweeting", "genuine", "genuine", "genuine question", "threat", "clickbait", "family", "quote", "lyrics", "lyrics", "copypasta", "metaphor / metaphorically", "literal / literally", "little upset", "not upset", "rhetorical", "rhetorical", "hyperbole", "platonic", "romantic", "positive connotation", "negative connotation", "neutral", "not a vent", "not being rude", "not competing / comparing", "not passive aggressive", "mostly joking", "affectionate", "somebody in particular", "coping joke", "no pressure", "not forced", "joking tone", "very serious", "not sarcastic", "not joking", "joking threat", "light hearted joke", "off topic"],
+  "meanings": ["joking", "half joking", "sarcastic", "sarcastic", "serious", "not serious", "light hearted", "inside joke", "reference", "teasing", "not mad", "a little upset", "nobody here", "not at you", "not subtweeting", "genuine", "genuine", "genuine question", "threat", "clickbait", "family", "quote", "lyrics", "lyrics", "copypasta", "metaphor / metaphorically", "literal / literally", "little upset", "not upset", "rhetorical", "rhetorical", "hyperbole", "platonic", "romantic", "positive connotation", "negative connotation", "neutral", "not a vent", "not being rude", "not competing / comparing", "not passive aggressive", "mostly joking", "affectionate", "somebody in particular", "coping joke", "no pressure", "not forced", "joking tone", "very serious", "not sarcastic", "not joking", "joking threat", "light hearted joke", "off topic", "soft tone"],
   
   "tonetags": [
     {
@@ -220,6 +220,10 @@
     {
       "tag": "/ot",
       "meanings": ["off topic"]
+    },
+    {
+      "tag": "/st",
+      "meanings": ["soft tone"]
     }
   ]
     }
